@@ -1,0 +1,13 @@
+C:\Users\Jorge\source\repos\searchfight\Logical\obj\Debug\Logical.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\searchfight\Logical\obj\Debug\Logical.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Logical.dll
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Logical.pdb
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Domain.dll
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Services.dll
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Common.dll
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Domain.pdb
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Services.pdb
+C:\Users\Jorge\source\repos\searchfight\Logical\bin\Debug\Common.pdb
+C:\Users\Jorge\source\repos\searchfight\Logical\obj\Debug\Logical.csproj.CopyComplete
+C:\Users\Jorge\source\repos\searchfight\Logical\obj\Debug\Logical.dll
+C:\Users\Jorge\source\repos\searchfight\Logical\obj\Debug\Logical.pdb

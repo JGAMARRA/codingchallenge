@@ -1,0 +1,6 @@
+C:\Users\Jorge\source\repos\searchfight\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\searchfight\Common\bin\Debug\Common.dll
+C:\Users\Jorge\source\repos\searchfight\Common\bin\Debug\Common.pdb
+C:\Users\Jorge\source\repos\searchfight\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\searchfight\Common\obj\Debug\Common.dll
+C:\Users\Jorge\source\repos\searchfight\Common\obj\Debug\Common.pdb

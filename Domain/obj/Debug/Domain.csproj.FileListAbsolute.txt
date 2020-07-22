@@ -1,0 +1,6 @@
+C:\Users\Jorge\source\repos\searchfight\Domain\bin\Debug\Domain.dll
+C:\Users\Jorge\source\repos\searchfight\Domain\bin\Debug\Domain.pdb
+C:\Users\Jorge\source\repos\searchfight\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\searchfight\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\searchfight\Domain\obj\Debug\Domain.dll
+C:\Users\Jorge\source\repos\searchfight\Domain\obj\Debug\Domain.pdb
